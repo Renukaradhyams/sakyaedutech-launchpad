@@ -1,0 +1,102 @@
+[
+  {
+    "id": "review-1",
+    "name": "Arjun Verma",
+    "course": "Python Full Stack Developer",
+    "photo": "/placeholder.svg",
+    "rating": 5,
+    "projectFeedback": "The e-commerce project we built was exactly like a real startup product. I learned how to handle payments, user authentication, and even deployment.",
+    "trainerFeedback": "Rahul sir's real-world examples made complex concepts easy to understand. He always shared stories from his actual projects.",
+    "industryLearning": "Understanding Git workflows, code reviews, and agile sprints gave me confidence for my first job interview."
+  },
+  {
+    "id": "review-2",
+    "name": "Divya Krishnan",
+    "course": "SAP S/4HANA Functional Consultant",
+    "photo": "/placeholder.svg",
+    "rating": 5,
+    "projectFeedback": "Configuring real SAP FICO scenarios was game-changing. I worked on actual GL postings, AR/AP cycles, and month-end closing.",
+    "trainerFeedback": "Priya ma'am explained business processes before configurations. This approach helped me understand why, not just how.",
+    "industryLearning": "Learning about implementation methodologies and client interactions prepared me for consulting roles."
+  },
+  {
+    "id": "review-3",
+    "name": "Karthik Sundaram",
+    "course": "Cloud & DevOps Engineer",
+    "photo": "/placeholder.svg",
+    "rating": 5,
+    "projectFeedback": "Setting up a complete CI/CD pipeline with Kubernetes was incredible. I deployed multiple microservices to AWS.",
+    "trainerFeedback": "Amit sir's hands-on approach meant we were always working on terminals, not just watching slides.",
+    "industryLearning": "Understanding incident management and on-call rotations gave me insights into real DevOps culture."
+  },
+  {
+    "id": "review-4",
+    "name": "Preethi Rajan",
+    "course": "Data Science & Machine Learning",
+    "photo": "/placeholder.svg",
+    "rating": 5,
+    "projectFeedback": "Building a churn prediction model with real datasets taught me the entire ML lifecycle from EDA to deployment.",
+    "trainerFeedback": "Sneha ma'am's focus on business impact alongside technical skills was unique. She taught us to communicate with stakeholders.",
+    "industryLearning": "Learning about A/B testing and model monitoring showed me what happens after a model is deployed."
+  },
+  {
+    "id": "review-5",
+    "name": "Rohit Agarwal",
+    "course": "Java Full Stack Developer",
+    "photo": "/placeholder.svg",
+    "rating": 5,
+    "projectFeedback": "The banking microservices project covered everything from API design to transaction handling. It felt like working in a fintech company.",
+    "trainerFeedback": "Vikram sir's code reviews were strict but incredibly helpful. He taught us production-grade coding standards.",
+    "industryLearning": "Understanding system design patterns and scalability concerns prepared me for senior developer interviews."
+  },
+  {
+    "id": "review-6",
+    "name": "Lakshmi Narayan",
+    "course": "MERN Stack Developer",
+    "photo": "/placeholder.svg",
+    "rating": 5,
+    "projectFeedback": "Building a social media app with real-time chat using Socket.io was the highlight. The project is now part of my portfolio.",
+    "trainerFeedback": "Rajesh sir brought startup energy to every session. His tips on rapid prototyping were invaluable.",
+    "industryLearning": "Learning about product thinking and user experience alongside coding made me a better developer."
+  },
+  {
+    "id": "review-7",
+    "name": "Sanjay Mehta",
+    "course": "Cyber Security Analyst",
+    "photo": "/placeholder.svg",
+    "rating": 5,
+    "projectFeedback": "Conducting a full security audit with penetration testing was thrilling. I found real vulnerabilities and documented fixes.",
+    "trainerFeedback": "Kavitha ma'am's ethical hacking demonstrations were eye-opening. She taught us to think like attackers.",
+    "industryLearning": "Understanding compliance frameworks and security policies showed me the broader picture of enterprise security."
+  },
+  {
+    "id": "review-8",
+    "name": "Neha Sharma",
+    "course": "Software Testing & Automation Engineer",
+    "photo": "/placeholder.svg",
+    "rating": 5,
+    "projectFeedback": "Building an automation framework from scratch and integrating with Jenkins CI/CD was exactly what companies need.",
+    "trainerFeedback": "Meera ma'am's attention to detail and test design techniques were exceptional. She made us think about edge cases.",
+    "industryLearning": "Learning about quality metrics and test reporting helped me understand how QA fits into the development lifecycle."
+  },
+  {
+    "id": "review-9",
+    "name": "Venkat Ramana",
+    "course": "SAP S/4HANA Technical (ABAP & Integration)",
+    "photo": "/placeholder.svg",
+    "rating": 5,
+    "projectFeedback": "Developing Fiori apps with CDS views for real business requirements taught me modern SAP development practices.",
+    "trainerFeedback": "Suresh sir's emphasis on clean ABAP code and performance optimization was crucial for working on large projects.",
+    "industryLearning": "Understanding SAP project lifecycles and client requirements prepared me for technical consultant roles."
+  },
+  {
+    "id": "review-10",
+    "name": "Anitha Balan",
+    "course": "Artificial Intelligence Engineer",
+    "photo": "/placeholder.svg",
+    "rating": 5,
+    "projectFeedback": "Building an NLP document processing system with OCR was challenging and rewarding. It's now being used by the company!",
+    "trainerFeedback": "Ananya ma'am's deep knowledge of transformers and LLMs was impressive. She made cutting-edge AI accessible.",
+    "industryLearning": "Learning about AI ethics and responsible AI development gave me a holistic view of the field."
+  }
+]

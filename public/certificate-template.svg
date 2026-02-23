@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1450" viewBox="0 0 1024 1450">
+  <defs>
+    <linearGradient id="blueA" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4063ff"/>
+      <stop offset="100%" stop-color="#142c8f"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#b58a15"/>
+      <stop offset="50%" stop-color="#ffe89f"/>
+      <stop offset="100%" stop-color="#bd8f14"/>
+    </linearGradient>
+    <style>
+      .titleScript{font: italic 120px Georgia, 'Times New Roman', serif; fill:#2a20c8}
+      .titleCaps{font: 700 64px 'Arial', sans-serif; letter-spacing:10px; fill:#2a20c8}
+      .normal{font: 400 60px 'Arial', sans-serif; fill:#2a20c8}
+      .name{font: 500 72px 'Arial', sans-serif; fill:#2a20c8}
+      .subScript{font: italic 86px Georgia, 'Times New Roman', serif; fill:#2a20c8}
+      .footer{font: 500 52px 'Arial', sans-serif; fill:#2a20c8}
+      .brand{font:700 74px 'Arial', sans-serif; fill:#0e4b8f}
+    </style>
+  </defs>
+
+  <rect width="1024" height="1450" fill="#f8f9fb"/>
+  <rect x="26" y="26" width="972" height="1398" fill="none" stroke="url(#blueA)" stroke-width="34"/>
+
+  <path d="M0,0 H150 V90 H95 L0,190 Z" fill="url(#blueA)"/>
+  <path d="M1024,0 H874 V92 H925 L1024,198 Z" fill="url(#blueA)"/>
+  <path d="M0,1450 H150 V1360 H95 L0,1260 Z" fill="url(#blueA)"/>
+  <path d="M1024,1450 H874 V1360 H925 L1024,1260 Z" fill="url(#blueA)"/>
+
+  <path d="M0,70 L100,0 L120,0 L20,110 Z" fill="url(#gold)"/>
+  <path d="M1024,70 L924,0 L904,0 L1004,110 Z" fill="url(#gold)"/>
+  <path d="M0,1380 L100,1450 L120,1450 L20,1340 Z" fill="url(#gold)"/>
+  <path d="M1024,1380 L924,1450 L904,1450 L1004,1340 Z" fill="url(#gold)"/>
+
+  <g opacity="0.22" stroke="#d6d9df" fill="none">
+    <path d="M90,180 C360,20 640,20 940,200" stroke-width="2"/>
+    <path d="M40,380 C380,120 660,120 990,410" stroke-width="2"/>
+    <path d="M20,700 C320,420 670,470 1010,790" stroke-width="2"/>
+    <path d="M30,1000 C360,770 690,780 1000,1100" stroke-width="2"/>
+    <path d="M60,1270 C370,1080 700,1090 980,1320" stroke-width="2"/>
+  </g>
+
+  <text x="512" y="150" text-anchor="middle" class="brand">Sakyaitech</text>
+  <text x="512" y="300" text-anchor="middle" class="titleScript">Certificate</text>
+  <text x="512" y="380" text-anchor="middle" class="titleCaps">OF COMPLETION</text>
+
+  <text x="512" y="560" text-anchor="middle" class="normal">This certifies that</text>
+  <text x="512" y="660" text-anchor="middle" class="name">[YOUR NAME]</text>
+  <line x1="160" y1="710" x2="864" y2="710" stroke="#5a56dd" stroke-width="3"/>
+
+  <text x="512" y="820" text-anchor="middle" class="subScript">has successfully completed the</text>
+  <text x="512" y="930" text-anchor="middle" class="name">[YOUR COURSE NAME]</text>
+  <line x1="385" y1="960" x2="640" y2="960" stroke="#5a56dd" stroke-width="4"/>
+
+  <text x="195" y="1140" class="footer">DATE</text>
+  <line x1="130" y1="1160" x2="390" y2="1160" stroke="#5a56dd" stroke-width="3"/>
+
+  <text x="630" y="1135" class="footer" font-size="45">TRAINER SINGNATURE</text>
+  <line x1="660" y1="1160" x2="925" y2="1160" stroke="#5a56dd" stroke-width="3"/>
+</svg>

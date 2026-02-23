@@ -1,0 +1,102 @@
+[
+  {
+    "id": "trainer-1",
+    "name": "Rahul Sharma",
+    "designation": "Senior Software Engineer",
+    "company": "Leading IT MNC",
+    "photo": "/placeholder.svg",
+    "technologies": ["Python", "Django", "AWS", "Microservices"],
+    "yearsOfExperience": 12,
+    "mentorMessage": "I believe in teaching through real problems. Every concept I teach comes from actual project challenges I've solved."
+  },
+  {
+    "id": "trainer-2",
+    "name": "Priya Patel",
+    "designation": "SAP FICO Lead Consultant",
+    "company": "Global Consulting Firm",
+    "photo": "/placeholder.svg",
+    "technologies": ["SAP S/4HANA", "SAP FICO", "SAP BTP", "Finance Processes"],
+    "yearsOfExperience": 10,
+    "mentorMessage": "SAP is not just software—it's understanding how businesses run. I focus on business scenarios alongside technical configuration."
+  },
+  {
+    "id": "trainer-3",
+    "name": "Amit Kumar",
+    "designation": "DevOps Architect",
+    "company": "Cloud Solutions Provider",
+    "photo": "/placeholder.svg",
+    "technologies": ["AWS", "Kubernetes", "Docker", "Terraform", "CI/CD"],
+    "yearsOfExperience": 9,
+    "mentorMessage": "Automation is the future. I teach you to think like an engineer who builds systems that scale and self-heal."
+  },
+  {
+    "id": "trainer-4",
+    "name": "Sneha Reddy",
+    "designation": "Data Science Manager",
+    "company": "Analytics Firm",
+    "photo": "/placeholder.svg",
+    "technologies": ["Python", "Machine Learning", "TensorFlow", "Data Visualization"],
+    "yearsOfExperience": 8,
+    "mentorMessage": "Data tells stories. My goal is to help you become a storyteller who can extract and communicate insights effectively."
+  },
+  {
+    "id": "trainer-5",
+    "name": "Vikram Singh",
+    "designation": "Full Stack Tech Lead",
+    "company": "Product Company",
+    "photo": "/placeholder.svg",
+    "technologies": ["Java", "Spring Boot", "React", "Microservices", "System Design"],
+    "yearsOfExperience": 11,
+    "mentorMessage": "I've built products used by millions. I share practical patterns and anti-patterns from real production systems."
+  },
+  {
+    "id": "trainer-6",
+    "name": "Kavitha Nair",
+    "designation": "Cyber Security Specialist",
+    "company": "Security Consulting Firm",
+    "photo": "/placeholder.svg",
+    "technologies": ["Penetration Testing", "SIEM", "Cloud Security", "Incident Response"],
+    "yearsOfExperience": 7,
+    "mentorMessage": "Security is a mindset, not just tools. I train you to think like both an attacker and a defender."
+  },
+  {
+    "id": "trainer-7",
+    "name": "Rajesh Menon",
+    "designation": "MERN Stack Developer",
+    "company": "Startup Unicorn",
+    "photo": "/placeholder.svg",
+    "technologies": ["React", "Node.js", "MongoDB", "TypeScript", "GraphQL"],
+    "yearsOfExperience": 6,
+    "mentorMessage": "Startups move fast. I teach you to build quickly without compromising on code quality and scalability."
+  },
+  {
+    "id": "trainer-8",
+    "name": "Ananya Gupta",
+    "designation": "AI/ML Engineer",
+    "company": "AI Research Lab",
+    "photo": "/placeholder.svg",
+    "technologies": ["Deep Learning", "NLP", "Computer Vision", "PyTorch", "LLMs"],
+    "yearsOfExperience": 5,
+    "mentorMessage": "AI is transforming every industry. I help you build practical AI solutions, not just understand algorithms."
+  },
+  {
+    "id": "trainer-9",
+    "name": "Suresh Iyer",
+    "designation": "SAP ABAP Technical Lead",
+    "company": "Enterprise Solutions Company",
+    "photo": "/placeholder.svg",
+    "technologies": ["ABAP", "SAP Fiori", "UI5", "CDS Views", "BTP"],
+    "yearsOfExperience": 13,
+    "mentorMessage": "Clean code and best practices matter. I teach ABAP the way it should be written in modern S/4HANA projects."
+  },
+  {
+    "id": "trainer-10",
+    "name": "Meera Joshi",
+    "designation": "QA Automation Lead",
+    "company": "Quality Engineering Firm",
+    "photo": "/placeholder.svg",
+    "technologies": ["Selenium", "Cypress", "API Testing", "Performance Testing", "CI/CD"],
+    "yearsOfExperience": 8,
+    "mentorMessage": "Quality is everyone's responsibility. I teach you to build testing frameworks that catch bugs before users do."
+  }
+]

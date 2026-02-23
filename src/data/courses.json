@@ -1,0 +1,212 @@
+[
+  {
+    "id": "python-fullstack",
+    "title": "Python Full Stack Developer",
+    "shortDescription": "Master Python web development with Django, Flask, and modern frontend technologies to build complete web applications.",
+    "skillsCovered": ["Python Programming", "Django Framework", "Flask", "REST APIs", "Database Design", "HTML/CSS/JavaScript", "React Basics", "Git & Version Control"],
+    "toolsAndTechnologies": ["Python 3.x", "Django", "Flask", "PostgreSQL", "MySQL", "Redis", "Docker", "AWS", "VS Code", "Git"],
+    "duration": "16 Weeks",
+    "level": "Student & Experienced Friendly",
+    "mode": "Online / Offline",
+    "realTimeProjectDescription": "Build a complete e-commerce platform with user authentication, payment integration, inventory management, and admin dashboard inside our company environment.",
+    "trainerType": "Working Professional",
+    "certification": true,
+    "curriculumModules": [
+      "Python Fundamentals & Advanced Concepts",
+      "Backend Development with Django & Flask",
+      "Database Design & ORM",
+      "Frontend Integration & React Basics",
+      "API Development & Microservices",
+      "Deployment & DevOps Essentials"
+    ]
+  },
+  {
+    "id": "java-fullstack",
+    "title": "Java Full Stack Developer",
+    "shortDescription": "Comprehensive Java development training covering Spring Boot, microservices architecture, and modern frontend frameworks.",
+    "skillsCovered": ["Core Java", "Spring Boot", "Spring MVC", "Microservices", "Hibernate", "REST APIs", "Angular/React", "JUnit Testing"],
+    "toolsAndTechnologies": ["Java 17+", "Spring Boot", "Maven/Gradle", "MySQL", "MongoDB", "Kafka", "Docker", "Kubernetes", "IntelliJ IDEA"],
+    "duration": "20 Weeks",
+    "level": "Student & Experienced Friendly",
+    "mode": "Online / Offline",
+    "realTimeProjectDescription": "Develop a banking microservices application with account management, transaction processing, and real-time notifications as part of our company projects.",
+    "trainerType": "Working Professional",
+    "certification": true,
+    "curriculumModules": [
+      "Core Java & OOP Concepts",
+      "Spring Framework & Spring Boot",
+      "Database & Hibernate ORM",
+      "Microservices Architecture",
+      "Frontend Development with Angular/React",
+      "Testing & Deployment"
+    ]
+  },
+  {
+    "id": "mern-stack",
+    "title": "MERN Stack Developer",
+    "shortDescription": "Full-stack JavaScript development with MongoDB, Express.js, React, and Node.js for modern web applications.",
+    "skillsCovered": ["JavaScript ES6+", "React.js", "Node.js", "Express.js", "MongoDB", "Redux", "REST APIs", "GraphQL Basics"],
+    "toolsAndTechnologies": ["Node.js", "React", "MongoDB", "Express", "Redux Toolkit", "Tailwind CSS", "Postman", "Git", "Vercel/Netlify"],
+    "duration": "14 Weeks",
+    "level": "Student & Experienced Friendly",
+    "mode": "Online / Offline",
+    "realTimeProjectDescription": "Create a social media platform with real-time chat, post sharing, notifications, and user engagement features within our company development environment.",
+    "trainerType": "Working Professional",
+    "certification": true,
+    "curriculumModules": [
+      "JavaScript & ES6+ Features",
+      "React.js & State Management",
+      "Node.js & Express Backend",
+      "MongoDB & Database Design",
+      "Authentication & Authorization",
+      "Deployment & Performance Optimization"
+    ]
+  },
+  {
+    "id": "data-science-ml",
+    "title": "Data Science & Machine Learning",
+    "shortDescription": "Learn data analysis, visualization, and machine learning algorithms to extract insights and build predictive models.",
+    "skillsCovered": ["Python for Data Science", "Statistical Analysis", "Data Visualization", "Machine Learning", "Deep Learning Basics", "Feature Engineering", "Model Deployment"],
+    "toolsAndTechnologies": ["Python", "Pandas", "NumPy", "Scikit-learn", "TensorFlow", "Matplotlib", "Seaborn", "Jupyter Notebook", "SQL"],
+    "duration": "18 Weeks",
+    "level": "Student & Experienced Friendly",
+    "mode": "Online / Offline",
+    "realTimeProjectDescription": "Build a customer churn prediction system with data pipeline, model training, and deployment dashboard for real business insights.",
+    "trainerType": "Working Professional",
+    "certification": true,
+    "curriculumModules": [
+      "Python & Statistics Foundation",
+      "Data Wrangling & Visualization",
+      "Supervised Learning Algorithms",
+      "Unsupervised Learning & Clustering",
+      "Deep Learning Introduction",
+      "Model Deployment & MLOps"
+    ]
+  },
+  {
+    "id": "ai-engineer",
+    "title": "Artificial Intelligence Engineer",
+    "shortDescription": "Advanced AI training covering neural networks, NLP, computer vision, and building intelligent applications.",
+    "skillsCovered": ["Neural Networks", "Natural Language Processing", "Computer Vision", "Reinforcement Learning", "Generative AI", "Model Optimization", "AI Ethics"],
+    "toolsAndTechnologies": ["Python", "TensorFlow", "PyTorch", "OpenCV", "Hugging Face", "LangChain", "OpenAI API", "CUDA", "AWS SageMaker"],
+    "duration": "20 Weeks",
+    "level": "Experienced Friendly",
+    "mode": "Online / Offline",
+    "realTimeProjectDescription": "Develop an AI-powered document processing system with OCR, NLP extraction, and intelligent automation for enterprise use cases.",
+    "trainerType": "Working Professional",
+    "certification": true,
+    "curriculumModules": [
+      "Deep Learning Fundamentals",
+      "Natural Language Processing",
+      "Computer Vision Applications",
+      "Generative AI & LLMs",
+      "AI System Design",
+      "Production Deployment"
+    ]
+  },
+  {
+    "id": "cloud-devops",
+    "title": "Cloud & DevOps Engineer",
+    "shortDescription": "Master cloud platforms, CI/CD pipelines, containerization, and infrastructure automation for modern software delivery.",
+    "skillsCovered": ["AWS/Azure Cloud", "Docker & Kubernetes", "CI/CD Pipelines", "Infrastructure as Code", "Monitoring & Logging", "Security Best Practices", "Linux Administration"],
+    "toolsAndTechnologies": ["AWS", "Azure", "Docker", "Kubernetes", "Terraform", "Jenkins", "GitHub Actions", "Prometheus", "Grafana", "Ansible"],
+    "duration": "16 Weeks",
+    "level": "Student & Experienced Friendly",
+    "mode": "Online / Offline",
+    "realTimeProjectDescription": "Set up a complete CI/CD pipeline for a microservices application with automated testing, containerization, and cloud deployment.",
+    "trainerType": "Working Professional",
+    "certification": true,
+    "curriculumModules": [
+      "Cloud Computing Fundamentals",
+      "Docker & Container Orchestration",
+      "Kubernetes Administration",
+      "CI/CD Pipeline Design",
+      "Infrastructure as Code",
+      "Monitoring & Site Reliability"
+    ]
+  },
+  {
+    "id": "cyber-security",
+    "title": "Cyber Security Analyst",
+    "shortDescription": "Comprehensive security training covering threat analysis, penetration testing, and security operations for enterprise protection.",
+    "skillsCovered": ["Network Security", "Penetration Testing", "Security Operations", "Incident Response", "Risk Assessment", "Compliance & Governance", "Cloud Security"],
+    "toolsAndTechnologies": ["Wireshark", "Metasploit", "Burp Suite", "Nmap", "Splunk", "SIEM Tools", "Kali Linux", "AWS Security", "Nessus"],
+    "duration": "18 Weeks",
+    "level": "Student & Experienced Friendly",
+    "mode": "Online / Offline",
+    "realTimeProjectDescription": "Conduct a complete security audit including vulnerability assessment, penetration testing, and remediation planning for enterprise systems.",
+    "trainerType": "Working Professional",
+    "certification": true,
+    "curriculumModules": [
+      "Security Fundamentals & Networking",
+      "Ethical Hacking & Penetration Testing",
+      "Security Operations & SIEM",
+      "Cloud Security & Compliance",
+      "Incident Response & Forensics",
+      "Security Architecture & Governance"
+    ]
+  },
+  {
+    "id": "sap-functional",
+    "title": "SAP S/4HANA Functional Consultant",
+    "shortDescription": "Master SAP S/4HANA functional modules including FICO, MM, SD with hands-on configuration and business process expertise.",
+    "skillsCovered": ["SAP FICO", "SAP MM", "SAP SD", "S/4HANA Configuration", "Business Process Analysis", "SAP Fiori", "Reporting & Analytics", "Integration Scenarios"],
+    "toolsAndTechnologies": ["SAP S/4HANA", "SAP Fiori", "SAP GUI", "SAP BTP", "SAP Analytics Cloud", "Excel", "Solution Manager"],
+    "duration": "16 Weeks",
+    "level": "Student & Experienced Friendly",
+    "mode": "Online / Offline",
+    "realTimeProjectDescription": "Configure end-to-end SAP FICO processes including GL, AR, AP, and Asset Accounting for a real company implementation project.",
+    "trainerType": "Working Professional",
+    "certification": true,
+    "curriculumModules": [
+      "SAP S/4HANA Overview & Navigation",
+      "Financial Accounting (FI) Configuration",
+      "Controlling (CO) Module",
+      "Materials Management (MM) Basics",
+      "Sales & Distribution (SD) Basics",
+      "Integration & Reporting"
+    ]
+  },
+  {
+    "id": "sap-technical",
+    "title": "SAP S/4HANA Technical (ABAP & Integration)",
+    "shortDescription": "Technical SAP development with ABAP programming, Fiori app development, and system integration expertise.",
+    "skillsCovered": ["ABAP Programming", "ABAP OO", "SAP Fiori/UI5", "CDS Views", "BAPI/RFC/IDOC", "SAP BTP", "API Development", "Performance Optimization"],
+    "toolsAndTechnologies": ["SAP S/4HANA", "ABAP Development Tools", "SAP Fiori", "SAP BTP", "SAP Integration Suite", "Git", "Eclipse", "Postman"],
+    "duration": "18 Weeks",
+    "level": "Experienced Friendly",
+    "mode": "Online / Offline",
+    "realTimeProjectDescription": "Develop custom Fiori applications and ABAP enhancements for real business requirements in our SAP project environment.",
+    "trainerType": "Working Professional",
+    "certification": true,
+    "curriculumModules": [
+      "ABAP Fundamentals & Advanced",
+      "Object-Oriented ABAP",
+      "CDS Views & AMDP",
+      "SAP Fiori & UI5 Development",
+      "Integration Technologies",
+      "SAP BTP & Cloud Development"
+    ]
+  },
+  {
+    "id": "software-testing",
+    "title": "Software Testing & Automation Engineer",
+    "shortDescription": "Complete testing training covering manual testing, automation frameworks, and quality assurance best practices.",
+    "skillsCovered": ["Manual Testing", "Test Automation", "Selenium WebDriver", "API Testing", "Performance Testing", "CI/CD Integration", "Agile Testing", "Test Management"],
+    "toolsAndTechnologies": ["Selenium", "Cypress", "JMeter", "Postman", "Jenkins", "JIRA", "TestNG", "Cucumber", "Git", "REST Assured"],
+    "duration": "14 Weeks",
+    "level": "Student & Experienced Friendly",
+    "mode": "Online / Offline",
+    "realTimeProjectDescription": "Build a complete test automation framework with Selenium, integrate with CI/CD, and execute end-to-end testing for live applications.",
+    "trainerType": "Working Professional",
+    "certification": true,
+    "curriculumModules": [
+      "Testing Fundamentals & SDLC",
+      "Manual Testing & Test Design",
+      "Selenium WebDriver Automation",
+      "API Testing with Postman & REST Assured",
+      "Performance Testing with JMeter",
+      "CI/CD Integration & Reporting"
+    ]
+  }
+]
